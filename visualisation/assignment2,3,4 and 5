@@ -24,3 +24,13 @@ visualize the mtcars.csv dataset with various plots.
 Tasks To Be Performed:
 1. Plot a pie chart for columns: ‘cyl’ and ‘model’ form the mtcars.csv data
 frame.
+Problem Statement:
+You work in XYZ Corporation as a Data Analyst. Your corporation has told you to
+visualize the mtcars.csv dataset with various plots.
+Tasks To Be Performed:
+1. Plot the area chart for the columns ‘am’ and ‘carb’:
+a. Set the ‘am’ on the x-axis
+b. Set the ‘carb’ on the y-axis
+c. Provide the x-axis label as Transmission
+d. Provide the y-axis label as Number of carburetors
+e. Provide the title as Transmission vs Number of carbuetors.

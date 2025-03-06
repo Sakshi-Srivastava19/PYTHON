@@ -1,0 +1,10 @@
+Problem Statement:
+You work in XYZ Corporation as a Data Analyst. Your corporation has told you to
+visualize the mtcars.csv dataset with various plots.
+Tasks To Be Performed:
+1. Generate a bar plot graph for the columns ‘carbs’ and ‘gear’:
+a. Map the ‘carbs’ onto the x-axis
+b. Map the ‘gear’ onto the y-axis
+c. Provide the x-axis label as Number of carburetors
+d. Provide the y-axis label as Number of forward gears
+e. Set the title as carbs vs gear

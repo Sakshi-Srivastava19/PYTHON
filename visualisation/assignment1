@@ -1,0 +1,11 @@
+Problem Statement:
+You work in XYZ Corporation as a Data Analyst. Your corporation has told you to
+visualize the mtcars.csv dataset with various plots.
+Tasks To Be Performed:
+1. Start off by importing the cars.csv file in the jupyter notebook.
+2. Generate a line plot graph for the column ‘model’ and ‘hp’:
+a. Map the ‘model’ column on the x-axis
+b. Map the ‘hp’ column on the y-axis
+c. Provide the x-axis label as Models of the cars
+d. Provide the y-axis label as Horse-Power of Cars
+e. Set the title as Model Names vs Horse
